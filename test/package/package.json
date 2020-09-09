@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "server.js",
   "dependencies": {
-    "bl": "~0.9.1",
+    "bl": "~4.0.3",
     "buffertools": "~2.1.2",
     "hyperquest": "~0.3.0"
   },
